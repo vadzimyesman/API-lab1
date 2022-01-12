@@ -1,0 +1,18 @@
+button{
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+body{
+    background-image: url("https://wallpapercave.com/wp/LLal9DN.jpg");
+    display: flex;
+    flex-direction: row
+}
+
+h2{
+    color: white;
+}
